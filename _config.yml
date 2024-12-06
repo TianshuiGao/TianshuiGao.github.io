@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "我的个人主页"
 title_separator          : "-"
-name                     : &name "Emin Yildiz"
+name                     : &name "TianshuiGao"
 description              : &description "个人介绍"
 url                      : https://tianshuigao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuanhang_Gao"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "风流江左久客"
   location         : "Earth"
   employer         : "Zhejiang University"
   uri              : # URL
