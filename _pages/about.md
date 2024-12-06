@@ -1,11 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-时惟强圉大渊献丁未丁未，予小子以降。
-青春受谢，白日昭只；维予小子，夙夜敬止。
+# 生平简介
+时惟强圉大渊献丁未丁未，予小子以降。青春受谢，白日昭只；维予小子，夙夜敬止。
+
+## 兴趣爱好
+嗜好：文史。
+
+ 1. 历史方面：对两周历史很感兴趣；
+ 2. 文学方面：最喜欢词（尤其是南宋文人词）；也很喜欢楚辞（“~~香草美人~~”）；也会读一些汉魏六朝的赋。
+ 3. 创作方面：鄙人才疏学浅，只会写慢词，懂一点点和赋相关的东西。
+ 
+        ps：也比较喜欢叔本华
+
+ 欢迎志同道合的朋友来交流~
