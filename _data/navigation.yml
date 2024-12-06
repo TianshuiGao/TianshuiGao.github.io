@@ -5,23 +5,23 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "成果"
     url: /publications/
 
-  - title: "Talks"
+  - title: "自序"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "史论"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "词论"
     url: /portfolio/
         
   - title: "词作"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "简历"
     url: /cv/
     
-  - title: "Guide"
+  - title: "索引"
     url: /markdown/
